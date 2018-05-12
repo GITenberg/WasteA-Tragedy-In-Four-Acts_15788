@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6291
     wikipedia: http://en.wikipedia.org/wiki/Harley_Granville-Barker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15788#WasteA-Tragedy-In-Four-Acts
 gutenberg_issued: '2005-05-07'
 gutenberg_type: Text
 identifiers:
