@@ -1,0 +1,30 @@
+_repo: WasteA-Tragedy-In-Four-Acts_15788
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Granville-Barker, Harley
+    alias: Barker, Granville
+    birthdate: 1877
+    deathdate: 1946
+    gutenberg_agent_id: '6291'
+    url: http://www.gutenberg.org/2009/agents/6291
+    wikipedia: http://en.wikipedia.org/wiki/Harley_Granville-Barker
+description: ''
+gutenberg_issued: '2005-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adultery -- Drama'
+- !lcsh 'Women''s rights -- Drama'
+- !lcsh 'Politicians -- Drama'
+- !lcc 'PR'
+title: 'Waste: A Tragedy, In Four Acts'
+url: http://www.gutenberg.org/ebooks/15788
